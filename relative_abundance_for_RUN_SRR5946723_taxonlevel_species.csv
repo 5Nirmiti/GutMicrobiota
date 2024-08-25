@@ -1,0 +1,53 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+853,18.4079,Faecalibacterium prausnitzii
+39491,12.7545,[Eubacterium] rectale
+821,11.0131,Bacteroides vulgatus
+28117,8.45975,Alistipes putredinis
+2053618,7.13978,Unknown
+820,5.84571,Bacteroides uniformis
+239935,4.68514,Akkermansia muciniphila
+46503,3.75651,Parabacteroides merdae
+246787,3.564,Bacteroides cellulosilyticus
+28116,3.46315,Bacteroides ovatus
+487174,3.20537,Barnesiella intestinihominis
+47678,2.12179,Bacteroides caccae
+40545,2.05998,Sutterella wadsworthensis
+328814,1.91702,Alistipes shahii
+818,1.75078,Bacteroides thetaiotaomicron
+1945593,1.3707,Unknown
+39485,1.30873,[Eubacterium] eligens
+658081,1.24035,Lachnospiraceae bacterium 1_1_57FAA
+166486,0.88177,Roseburia intestinalis
+28118,0.72981,Odoribacter splanchnicus
+410072,0.59801,Coprococcus comes
+2049040,0.52449,Unknown
+39496,0.49827,Eubacterium ventriosum
+33039,0.48752,[Ruminococcus] torques
+552398,0.31989,Ruminococcaceae bacterium D16
+46228,0.30351,Ruminococcus lactaris
+665951,0.26352,Lachnospiraceae bacterium 8_1_57FAA
+360807,0.17515,Roseburia inulinivorans
+214856,0.14531,Alistipes finegoldii
+1680,0.1327,Bifidobacterium adolescentis
+39486,0.12856,Dorea formicigenerans
+292800,0.11931,Flavonifractor plautii
+1535,0.10388,[Clostridium] leptum
+658087,0.08933,Lachnospiraceae bacterium 7_1_58FAA
+658089,0.08908,Lachnospiraceae bacterium 5_1_63FAA
+1308,0.05958,Streptococcus thermophilus
+40519,0.04107,Ruminococcus callidus
+39488,0.03385,[Eubacterium] hallii
+61171,0.03286,Holdemania filiformis
+665950,0.03091,Lachnospiraceae bacterium 3_1_46FAA
+446660,0.03024,Adlercreutzia equolifaciens
+2049029,0.02075,Unknown
+469614,0.02037,Erysipelotrichaceae bacterium 6_1_45
+116085,0.01907,Coprococcus catus
+40520,0.01897,Blautia obeum
+39490,0.0137,Eubacterium ramulus
+216816,0.01253,Bifidobacterium longum
+291645,0.00421,Bacteroides nordii
+649756,0.00355,Anaerostipes hadrus
+28026,0.00279,Bifidobacterium pseudocatenulatum
+106588,0.00122,Pseudoflavonifractor capillosus
+-1,-1e-05,Unknown

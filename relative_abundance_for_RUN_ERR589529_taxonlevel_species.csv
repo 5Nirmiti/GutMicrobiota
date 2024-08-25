@@ -1,0 +1,95 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+1735,14.6425,Holdemanella biformis
+28117,9.23449,Alistipes putredinis
+40518,8.25248,Ruminococcus bromii
+751585,6.39631,Coprococcus sp. ART55/1
+39491,5.92869,[Eubacterium] rectale
+562,5.69922,Escherichia coli
+46506,4.96234,Bacteroides stercoris
+853,3.6764,Faecalibacterium prausnitzii
+338188,2.80535,Bacteroides finegoldii
+39486,2.1618,Dorea formicigenerans
+28116,2.0681,Bacteroides ovatus
+40520,1.90612,Blautia obeum
+47678,1.76383,Bacteroides caccae
+329854,1.57355,Bacteroides intestinalis
+28118,1.54608,Odoribacter splanchnicus
+357276,1.51213,Bacteroides dorei
+550,1.42362,Enterobacter cloacae
+214856,1.41163,Alistipes finegoldii
+457412,1.40459,Ruminococcus sp. 5_1_39BFAA
+387090,1.24499,Bacteroides coprophilus
+1352,1.11723,Enterococcus faecium
+204516,1.06581,Bacteroides massiliensis
+360807,1.0564,Roseburia inulinivorans
+166486,1.04979,Roseburia intestinalis
+28026,0.96456,Bifidobacterium pseudocatenulatum
+328814,0.94194,Alistipes shahii
+818,0.8852,Bacteroides thetaiotaomicron
+820,0.73361,Bacteroides uniformis
+39488,0.6441,[Eubacterium] hallii
+39485,0.56233,[Eubacterium] eligens
+487174,0.53845,Barnesiella intestinihominis
+46228,0.53157,Ruminococcus lactaris
+88431,0.53135,Dorea longicatena
+1118061,0.48793,Alistipes obesi
+371601,0.44726,Bacteroides xylanisolvens
+410072,0.42086,Coprococcus comes
+40519,0.41829,Ruminococcus callidus
+1211813,0.37748,Candidatus Alistipes marseilloanorexicus AP11
+310297,0.35027,Bacteroides plebeius
+33039,0.34688,[Ruminococcus] torques
+328813,0.33146,Alistipes onderdonkii
+1246,0.32437,Leuconostoc lactis
+1583,0.26504,Weissella confusa
+46503,0.24388,Parabacteroides merdae
+216816,0.23596,Bifidobacterium longum
+74426,0.23335,Collinsella aerofaciens
+116085,0.22317,Coprococcus catus
+1304,0.20604,Streptococcus salivarius
+1363,0.20398,Lactococcus garvieae
+446660,0.19262,Adlercreutzia equolifaciens
+471189,0.13857,Gordonibacter pamelaeae
+39490,0.10163,Eubacterium ramulus
+261299,0.09626,Intestinibacter bartlettii
+1599,0.09359,Lactobacillus sakei
+1354,0.09293,Enterococcus hirae
+1099853,0.0773,Coprobacter fastidiosus
+53345,0.07373,Enterococcus durans
+28038,0.07186,Lactobacillus curvatus
+1351,0.0681,Enterococcus faecalis
+658081,0.04523,Lachnospiraceae bacterium 1_1_57FAA
+40545,0.04236,Sutterella wadsworthensis
+1245,0.03933,Leuconostoc mesenteroides
+52226,0.03484,Mitsuokella multacida
+847,0.03161,Oxalobacter formigenes
+1288121,0.02626,Alistipes senegalensis
+658089,0.02404,Lachnospiraceae bacterium 5_1_63FAA
+1358,0.01488,Lactococcus lactis
+626932,0.01375,Alistipes indistinctus
+665950,0.01317,Lachnospiraceae bacterium 3_1_46FAA
+823,0.01091,Parabacteroides distasonis
+43675,0.01086,Rothia mucilaginosa
+649756,0.00971,Anaerostipes hadrus
+1535,0.00947,[Clostridium] leptum
+137591,0.00935,Weissella cibaria
+53346,0.00878,Enterococcus mundtii
+1590,0.00771,Lactobacillus plantarum
+37734,0.00615,Enterococcus casseliflavus
+487175,0.00598,Parasutterella excrementihominis
+571,0.00474,Klebsiella oxytoca
+230143,0.00473,Scardovia wiggsiae
+291645,0.00388,Bacteroides nordii
+301301,0.00371,Roseburia hominis
+729,0.00313,Haemophilus parainfluenzae
+1318,0.00303,Streptococcus parasanguinis
+33043,0.0028,Coprococcus eutactus
+33964,0.00249,Leuconostoc citreum
+546,0.00235,Citrobacter freundii
+55565,0.00127,Actinomyces graevenitzii
+469610,0.00099,Burkholderiales bacterium 1_1_47
+214851,0.00058,Subdoligranulum variabile
+1660,0.00052,Actinomyces odontolyticus
+39496,0.00045,Eubacterium ventriosum
+102148,0.00043,Solobacterium moorei
+-1,3.24115,Unknown

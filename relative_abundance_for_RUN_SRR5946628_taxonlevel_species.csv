@@ -1,0 +1,60 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+46506,35.829,Bacteroides stercoris
+363265,12.7351,Prevotella stercorea
+820,11.8392,Bacteroides uniformis
+853,8.61449,Faecalibacterium prausnitzii
+821,5.36427,Bacteroides vulgatus
+28116,5.15626,Bacteroides ovatus
+39491,3.58845,[Eubacterium] rectale
+204516,2.87329,Bacteroides massiliensis
+2053618,1.72686,Unknown
+469588,1.69046,Bacteroides sp. 2_1_22
+40545,1.14919,Sutterella wadsworthensis
+28117,1.08966,Alistipes putredinis
+626940,0.99367,Phascolarctobacterium succinatutens
+88431,0.98942,Dorea longicatena
+165179,0.96083,Prevotella copri
+1945593,0.54309,Unknown
+46503,0.50172,Parabacteroides merdae
+39485,0.48927,[Eubacterium] eligens
+39492,0.47911,[Eubacterium] siraeum
+328814,0.41059,Alistipes shahii
+360807,0.37964,Roseburia inulinivorans
+1680,0.32005,Bifidobacterium adolescentis
+487174,0.31144,Barnesiella intestinihominis
+818,0.30826,Bacteroides thetaiotaomicron
+1118061,0.18608,Alistipes obesi
+329854,0.17077,Bacteroides intestinalis
+1735,0.14761,Holdemanella biformis
+1965233,0.13965,Unknown
+40520,0.09903,Blautia obeum
+328812,0.09142,Parabacteroides goldsteinii
+1681,0.09116,Bifidobacterium bifidum
+410072,0.08419,Coprococcus comes
+74426,0.06921,Collinsella aerofaciens
+1884818,0.06015,Unknown
+328813,0.05819,Alistipes onderdonkii
+562,0.05581,Escherichia coli
+216816,0.05482,Bifidobacterium longum
+116085,0.03615,Coprococcus catus
+658087,0.03479,Lachnospiraceae bacterium 7_1_58FAA
+626933,0.03096,Odoribacter laneus
+1512,0.03012,[Clostridium] symbiosum
+357276,0.02766,Bacteroides dorei
+487175,0.02662,Parasutterella excrementihominis
+39490,0.02319,Eubacterium ramulus
+626932,0.02314,Alistipes indistinctus
+39488,0.01911,[Eubacterium] hallii
+469610,0.01612,Burkholderiales bacterium 1_1_47
+674529,0.01532,Bacteroides faecis
+658089,0.01409,Lachnospiraceae bacterium 5_1_63FAA
+39486,0.01304,Dorea formicigenerans
+1929485,0.01045,Unknown
+61171,0.00687,Holdemania filiformis
+301301,0.00654,Roseburia hominis
+214856,0.00415,Alistipes finegoldii
+649756,0.00357,Anaerostipes hadrus
+1288121,0.00344,Alistipes senegalensis
+823,0.00298,Parabacteroides distasonis
+39496,0.00041,Eubacterium ventriosum
+-1,-1e-05,Unknown

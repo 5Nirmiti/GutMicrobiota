@@ -1,0 +1,65 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+46506,19.6506,Bacteroides stercoris
+204516,18.6785,Bacteroides massiliensis
+28116,13.3146,Bacteroides ovatus
+821,11.7511,Bacteroides vulgatus
+47678,9.01415,Bacteroides caccae
+40518,5.5208,Ruminococcus bromii
+487175,2.14041,Parasutterella excrementihominis
+562,1.76318,Escherichia coli
+820,1.35797,Bacteroides uniformis
+818,1.35534,Bacteroides thetaiotaomicron
+328813,1.28386,Alistipes onderdonkii
+33038,0.63162,[Ruminococcus] gnavus
+469610,0.47399,Burkholderiales bacterium 1_1_47
+457412,0.31638,Ruminococcus sp. 5_1_39BFAA
+28026,0.27237,Bifidobacterium pseudocatenulatum
+216816,0.22392,Bifidobacterium longum
+371601,0.21312,Bacteroides xylanisolvens
+410072,0.20795,Coprococcus comes
+658082,0.18489,Lachnospiraceae bacterium 2_1_58FAA
+166486,0.18413,Roseburia intestinalis
+29466,0.16317,Veillonella parvula
+360807,0.15587,Roseburia inulinivorans
+28118,0.15315,Odoribacter splanchnicus
+33039,0.1413,[Ruminococcus] torques
+649756,0.13815,Anaerostipes hadrus
+39488,0.137,[Eubacterium] hallii
+328812,0.1234,Parabacteroides goldsteinii
+39496,0.12124,Eubacterium ventriosum
+261299,0.09981,Intestinibacter bartlettii
+626932,0.08486,Alistipes indistinctus
+218538,0.08367,Dialister invisus
+208479,0.07291,[Clostridium] bolteae
+88431,0.0715,Dorea longicatena
+46228,0.06786,Ruminococcus lactaris
+658089,0.05603,Lachnospiraceae bacterium 5_1_63FAA
+246787,0.05313,Bacteroides cellulosilyticus
+116085,0.04343,Coprococcus catus
+165179,0.04055,Prevotella copri
+28117,0.03868,Alistipes putredinis
+97478,0.03692,Lactobacillus mucosae
+823,0.03687,Parabacteroides distasonis
+1604,0.03649,Lactobacillus amylovorus
+665951,0.03055,Lachnospiraceae bacterium 8_1_57FAA
+40520,0.0197,Blautia obeum
+457421,0.01841,Clostridiales bacterium 1_7_47FAA
+658088,0.01522,Lachnospiraceae bacterium 9_1_43BFAA
+329854,0.01455,Bacteroides intestinalis
+817,0.01389,Bacteroides fragilis
+573,0.01354,Klebsiella pneumoniae
+46503,0.01168,Parabacteroides merdae
+853,0.01109,Faecalibacterium prausnitzii
+1512,0.00705,[Clostridium] symbiosum
+29361,0.0069,Tyzzerella nexilis
+35833,0.00663,Bilophila wadsworthia
+876,0.00485,Desulfovibrio desulfuricans
+357276,0.00435,Bacteroides dorei
+674529,0.00429,Bacteroides faecis
+292800,0.00335,Flavonifractor plautii
+338188,0.00293,Bacteroides finegoldii
+729,0.00147,Haemophilus parainfluenzae
+1547,0.00055,Erysipelatoclostridium ramosum
+33959,0.00041,Lactobacillus johnsonii
+39485,0.00033,[Eubacterium] eligens
+-1,9.31348,Unknown

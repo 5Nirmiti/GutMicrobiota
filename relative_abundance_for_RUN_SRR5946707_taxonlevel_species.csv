@@ -1,0 +1,61 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+39491,19.8753,[Eubacterium] rectale
+821,12.2697,Bacteroides vulgatus
+853,10.5125,Faecalibacterium prausnitzii
+28117,7.8103,Alistipes putredinis
+46503,6.35885,Parabacteroides merdae
+239935,5.47271,Akkermansia muciniphila
+246787,4.57928,Bacteroides cellulosilyticus
+2053618,4.42811,Unknown
+820,3.86354,Bacteroides uniformis
+47678,3.22764,Bacteroides caccae
+33039,3.16418,[Ruminococcus] torques
+40545,2.67136,Sutterella wadsworthensis
+818,1.96132,Bacteroides thetaiotaomicron
+166486,1.78828,Roseburia intestinalis
+410072,1.70617,Coprococcus comes
+39496,1.16534,Eubacterium ventriosum
+28116,1.13007,Bacteroides ovatus
+39485,0.9871,[Eubacterium] eligens
+360807,0.85624,Roseburia inulinivorans
+28118,0.7852,Odoribacter splanchnicus
+487174,0.75146,Barnesiella intestinihominis
+328814,0.56818,Alistipes shahii
+46228,0.54173,Ruminococcus lactaris
+1945593,0.52532,Unknown
+39490,0.34231,Eubacterium ramulus
+39488,0.32284,[Eubacterium] hallii
+39486,0.27305,Dorea formicigenerans
+665950,0.24319,Lachnospiraceae bacterium 3_1_46FAA
+88431,0.24292,Dorea longicatena
+74426,0.18127,Collinsella aerofaciens
+28026,0.14491,Bifidobacterium pseudocatenulatum
+658089,0.12312,Lachnospiraceae bacterium 5_1_63FAA
+446660,0.12225,Adlercreutzia equolifaciens
+487175,0.12016,Parasutterella excrementihominis
+649756,0.10958,Anaerostipes hadrus
+40520,0.08484,Blautia obeum
+214856,0.07761,Alistipes finegoldii
+216816,0.07155,Bifidobacterium longum
+116085,0.07154,Coprococcus catus
+61171,0.06417,Holdemania filiformis
+1680,0.05641,Bifidobacterium adolescentis
+292800,0.04801,Flavonifractor plautii
+301301,0.04287,Roseburia hominis
+658087,0.04283,Lachnospiraceae bacterium 7_1_58FAA
+552398,0.03585,Ruminococcaceae bacterium D16
+1884818,0.02583,Unknown
+1872531,0.02443,Unknown
+469614,0.02215,Erysipelotrichaceae bacterium 6_1_45
+1512,0.02084,[Clostridium] symbiosum
+1535,0.02034,[Clostridium] leptum
+169435,0.01554,Anaerotruncus colihominis
+562,0.01078,Escherichia coli
+358743,0.01066,[Clostridium] citroniae
+33038,0.00853,[Ruminococcus] gnavus
+658082,0.00761,Lachnospiraceae bacterium 2_1_58FAA
+208479,0.00754,[Clostridium] bolteae
+147207,0.00337,Collinsella intestinalis
+40519,0.00068,Ruminococcus callidus
+39492,0.00055,[Eubacterium] siraeum
+-1,1.42109e-14,Unknown

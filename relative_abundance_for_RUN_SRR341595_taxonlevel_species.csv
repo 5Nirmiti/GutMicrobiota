@@ -1,0 +1,81 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+46506,18.7808,Bacteroides stercoris
+47678,15.2121,Bacteroides caccae
+204516,7.72745,Bacteroides massiliensis
+40518,5.8269,Ruminococcus bromii
+218538,4.86904,Dialister invisus
+28117,4.15158,Alistipes putredinis
+329854,3.75663,Bacteroides intestinalis
+818,3.68209,Bacteroides thetaiotaomicron
+291644,2.38459,Bacteroides salyersiae
+853,2.32887,Faecalibacterium prausnitzii
+487174,2.05032,Barnesiella intestinihominis
+821,1.84088,Bacteroides vulgatus
+387661,1.83647,Parabacteroides johnsonii
+457412,1.70706,Ruminococcus sp. 5_1_39BFAA
+338188,1.34443,Bacteroides finegoldii
+357276,1.31999,Bacteroides dorei
+328814,1.16952,Alistipes shahii
+246787,1.16506,Bacteroides cellulosilyticus
+40520,1.15077,Blautia obeum
+28118,0.8984,Odoribacter splanchnicus
+820,0.86118,Bacteroides uniformis
+40545,0.78837,Sutterella wadsworthensis
+658081,0.78005,Lachnospiraceae bacterium 1_1_57FAA
+328813,0.74216,Alistipes onderdonkii
+454155,0.66853,Paraprevotella xylaniphila
+214856,0.47124,Alistipes finegoldii
+61171,0.4423,Holdemania filiformis
+371601,0.35644,Bacteroides xylanisolvens
+457402,0.35555,Eubacterium sp. 3_1_31
+626929,0.34988,Bacteroides clarus
+823,0.34422,Parabacteroides distasonis
+208479,0.31389,[Clostridium] bolteae
+169435,0.29178,Anaerotruncus colihominis
+562,0.28351,Escherichia coli
+33039,0.21353,[Ruminococcus] torques
+658086,0.19562,Lachnospiraceae bacterium 3_1_57FAA_CT1
+1531,0.17207,[Clostridium] clostridioforme
+1512,0.16465,[Clostridium] symbiosum
+457421,0.16305,Clostridiales bacterium 1_7_47FAA
+28116,0.16226,Bacteroides ovatus
+1118061,0.13606,Alistipes obesi
+333367,0.13386,[Clostridium] asparagiforme
+39486,0.13176,Dorea formicigenerans
+33038,0.11384,[Ruminococcus] gnavus
+154046,0.10201,Hungatella hathewayi
+1547,0.09458,Erysipelatoclostridium ramosum
+88431,0.08609,Dorea longicatena
+1304,0.08205,Streptococcus salivarius
+817,0.07916,Bacteroides fragilis
+39488,0.07835,[Eubacterium] hallii
+626932,0.07202,Alistipes indistinctus
+116085,0.06728,Coprococcus catus
+1288121,0.06426,Alistipes senegalensis
+310298,0.05868,Bacteroides coprocola
+1535,0.05796,[Clostridium] leptum
+1070699,0.05641,Clostridiaceae bacterium JC118
+239935,0.0548,Akkermansia muciniphila
+658655,0.05141,Lachnospiraceae bacterium 1_4_56FAA
+358743,0.04828,[Clostridium] citroniae
+487175,0.03823,Parasutterella excrementihominis
+39490,0.03682,Eubacterium ramulus
+310297,0.03467,Bacteroides plebeius
+35833,0.0279,Bilophila wadsworthia
+301301,0.02288,Roseburia hominis
+291645,0.02246,Bacteroides nordii
+552396,0.02155,Erysipelotrichaceae bacterium 5_2_54FAA
+658087,0.02024,Lachnospiraceae bacterium 7_1_58FAA
+469610,0.01925,Burkholderiales bacterium 1_1_47
+292800,0.01702,Flavonifractor plautii
+491921,0.01541,Megamonas rupellensis
+261299,0.01444,Intestinibacter bartlettii
+39491,0.0121,[Eubacterium] rectale
+328812,0.00839,Parabacteroides goldsteinii
+1736,0.00728,Eubacterium limosum
+46503,0.00678,Parabacteroides merdae
+658082,0.00533,Lachnospiraceae bacterium 2_1_58FAA
+674529,0.00203,Bacteroides faecis
+166486,0.00128,Roseburia intestinalis
+39496,0.00046,Eubacterium ventriosum
+-1,6.77347,Unknown

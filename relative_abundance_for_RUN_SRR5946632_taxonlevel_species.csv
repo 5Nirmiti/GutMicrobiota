@@ -1,0 +1,63 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+853,18.6143,Faecalibacterium prausnitzii
+821,14.4203,Bacteroides vulgatus
+820,12.6384,Bacteroides uniformis
+39491,10.926,[Eubacterium] rectale
+46506,7.95685,Bacteroides stercoris
+218538,7.87438,Dialister invisus
+310297,6.42016,Bacteroides plebeius
+823,4.59265,Parabacteroides distasonis
+28117,2.66954,Alistipes putredinis
+357276,1.49023,Bacteroides dorei
+46503,1.34959,Parabacteroides merdae
+47678,1.30624,Bacteroides caccae
+2053618,1.28672,Unknown
+166486,0.90054,Roseburia intestinalis
+88431,0.80389,Dorea longicatena
+1929485,0.59547,Unknown
+216816,0.58472,Bifidobacterium longum
+40545,0.55529,Sutterella wadsworthensis
+649756,0.54161,Anaerostipes hadrus
+28116,0.46989,Bacteroides ovatus
+552398,0.39932,Ruminococcaceae bacterium D16
+39486,0.37743,Dorea formicigenerans
+33039,0.33285,[Ruminococcus] torques
+2049040,0.29277,Unknown
+665950,0.27733,Lachnospiraceae bacterium 3_1_46FAA
+818,0.26528,Bacteroides thetaiotaomicron
+40519,0.25212,Ruminococcus callidus
+658089,0.17176,Lachnospiraceae bacterium 5_1_63FAA
+39488,0.17089,[Eubacterium] hallii
+338188,0.13544,Bacteroides finegoldii
+562,0.11688,Escherichia coli
+116085,0.11415,Coprococcus catus
+328813,0.10986,Alistipes onderdonkii
+360807,0.10658,Roseburia inulinivorans
+665951,0.07556,Lachnospiraceae bacterium 8_1_57FAA
+1680,0.06964,Bifidobacterium adolescentis
+214856,0.06083,Alistipes finegoldii
+40520,0.06017,Blautia obeum
+371601,0.05502,Bacteroides xylanisolvens
+487174,0.0503,Barnesiella intestinihominis
+410072,0.04997,Coprococcus comes
+35833,0.04961,Bilophila wadsworthia
+39490,0.04409,Eubacterium ramulus
+33038,0.04408,[Ruminococcus] gnavus
+39492,0.04306,[Eubacterium] siraeum
+1965233,0.03587,Unknown
+74426,0.03119,Collinsella aerofaciens
+301301,0.02488,Roseburia hominis
+1945593,0.02451,Unknown
+261299,0.02314,Intestinibacter bartlettii
+328814,0.01979,Alistipes shahii
+847,0.01946,Oxalobacter formigenes
+1535,0.01894,[Clostridium] leptum
+1884818,0.01887,Unknown
+39496,0.0186,Eubacterium ventriosum
+61171,0.01267,Holdemania filiformis
+658087,0.00818,Lachnospiraceae bacterium 7_1_58FAA
+729,0.00801,Haemophilus parainfluenzae
+328812,0.00714,Parabacteroides goldsteinii
+204516,0.00463,Bacteroides massiliensis
+358743,0.0024,[Clostridium] citroniae
+-1,-3e-05,Unknown

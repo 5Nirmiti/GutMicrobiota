@@ -1,0 +1,87 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+28117,11.672,Alistipes putredinis
+47678,10.9129,Bacteroides caccae
+165179,9.7616,Prevotella copri
+562,5.4395,Escherichia coli
+46503,5.27414,Parabacteroides merdae
+853,4.24015,Faecalibacterium prausnitzii
+216816,3.9571,Bifidobacterium longum
+821,2.65406,Bacteroides vulgatus
+204516,2.50484,Bacteroides massiliensis
+46506,1.93016,Bacteroides stercoris
+310298,1.80661,Bacteroides coprocola
+329854,1.49635,Bacteroides intestinalis
+214856,1.25754,Alistipes finegoldii
+40520,1.05504,Blautia obeum
+410072,0.99683,Coprococcus comes
+1735,0.97892,Holdemanella biformis
+818,0.95783,Bacteroides thetaiotaomicron
+328814,0.93911,Alistipes shahii
+820,0.90527,Bacteroides uniformis
+28026,0.82928,Bifidobacterium pseudocatenulatum
+626932,0.82746,Alistipes indistinctus
+28118,0.75264,Odoribacter splanchnicus
+1211813,0.70708,Candidatus Alistipes marseilloanorexicus AP11
+39485,0.63968,[Eubacterium] eligens
+1226323,0.56102,Oscillibacter sp. KLE 1745
+33039,0.52633,[Ruminococcus] torques
+487174,0.52135,Barnesiella intestinihominis
+39496,0.50984,Eubacterium ventriosum
+74426,0.49944,Collinsella aerofaciens
+544644,0.45704,Butyricimonas synergistica
+39491,0.41731,[Eubacterium] rectale
+674529,0.38002,Bacteroides faecis
+665956,0.35423,Subdoligranulum sp. 4_3_54A2FAA
+40545,0.34455,Sutterella wadsworthensis
+907,0.24908,Megasphaera elsdenii
+491921,0.2423,Megamonas rupellensis
+88431,0.22999,Dorea longicatena
+310297,0.21944,Bacteroides plebeius
+437897,0.20689,Megamonas funiformis
+154046,0.20528,Hungatella hathewayi
+626938,0.1816,Succinatimonas hippei
+626935,0.17384,Collinsella tanakaei
+28111,0.16385,Bacteroides eggerthii
+246787,0.12869,Bacteroides cellulosilyticus
+158847,0.12661,Megamonas hypermegale
+292800,0.12449,Flavonifractor plautii
+39486,0.12376,Dorea formicigenerans
+360807,0.11662,Roseburia inulinivorans
+1680,0.10432,Bifidobacterium adolescentis
+33038,0.08567,[Ruminococcus] gnavus
+371601,0.07509,Bacteroides xylanisolvens
+357276,0.0746,Bacteroides dorei
+658081,0.06648,Lachnospiraceae bacterium 1_1_57FAA
+39488,0.05092,[Eubacterium] hallii
+665950,0.04427,Lachnospiraceae bacterium 3_1_46FAA
+208479,0.04125,[Clostridium] bolteae
+1535,0.03746,[Clostridium] leptum
+1118061,0.03575,Alistipes obesi
+333367,0.03456,[Clostridium] asparagiforme
+1304,0.03411,Streptococcus salivarius
+905,0.03166,Acidaminococcus fermentans
+469610,0.0313,Burkholderiales bacterium 1_1_47
+487175,0.02661,Parasutterella excrementihominis
+116085,0.02329,Coprococcus catus
+28116,0.01765,Bacteroides ovatus
+328812,0.01716,Parabacteroides goldsteinii
+291644,0.01608,Bacteroides salyersiae
+301301,0.01575,Roseburia hominis
+169435,0.01347,Anaerotruncus colihominis
+469614,0.01231,Erysipelotrichaceae bacterium 6_1_45
+1522,0.00926,[Clostridium] innocuum
+729,0.00921,Haemophilus parainfluenzae
+1288121,0.00888,Alistipes senegalensis
+358743,0.00866,[Clostridium] citroniae
+457422,0.00845,Erysipelotrichaceae bacterium 2_2_44A
+457421,0.00795,Clostridiales bacterium 1_7_47FAA
+624,0.00795,Shigella sonnei
+658082,0.00726,Lachnospiraceae bacterium 2_1_58FAA
+61171,0.00692,Holdemania filiformis
+363265,0.00366,Prevotella stercorea
+626929,0.00261,Bacteroides clarus
+823,0.00233,Parabacteroides distasonis
+876,0.00222,Desulfovibrio desulfuricans
+658655,0.00138,Lachnospiraceae bacterium 1_4_56FAA
+187327,0.00066,Acidaminococcus intestini
+-1,19.4632,Unknown

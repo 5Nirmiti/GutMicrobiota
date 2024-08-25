@@ -1,0 +1,106 @@
+Day,Disease,Meal,Breakfast,Lunch,Dinner
+Monday,Celiac,Breakfast,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Monday,Celiac,Lunch,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Monday,Celiac,Dinner,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Monday,Diabetes,Breakfast,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Monday,Diabetes,Lunch,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Monday,Diabetes,Dinner,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Monday,Diarhea,Breakfast,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Monday,Diarhea,Lunch,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Monday,Diarhea,Dinner,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Monday,NAFLD,Breakfast,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Monday,NAFLD,Lunch,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Monday,NAFLD,Dinner,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Monday,Obesity,Breakfast,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Monday,Obesity,Lunch,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Monday,Obesity,Dinner,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Tuesday,Celiac,Breakfast,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Tuesday,Celiac,Lunch,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Tuesday,Celiac,Dinner,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Tuesday,Diabetes,Breakfast,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Tuesday,Diabetes,Lunch,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Tuesday,Diabetes,Dinner,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Tuesday,Diarrhea,Breakfast,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Tuesday,Diarrhea,Lunch,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Tuesday,Diarrhea,Dinner,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Tuesday,Non-Alcholic FLD,Breakfast,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Tuesday,Non-Alcholic FLD,Lunch,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Tuesday,Non-Alcholic FLD,Dinner,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Tuesday,Obesity,Breakfast,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Tuesday,Obesity,Lunch,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Tuesday,Obesity,Dinner,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Wednesday,Celiac,Breakfast,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Wednesday,Celiac,Lunch,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Wednesday,Celiac,Dinner,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Wednesday,Diabetes,Breakfast,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Wednesday,Diabetes,Lunch,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Wednesday,Diabetes,Dinner,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Wednesday,Diarrhea,Breakfast,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Wednesday,Diarrhea,Lunch,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Wednesday,Diarrhea,Dinner,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Wednesday,NAFLD,Breakfast,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Wednesday,NAFLD,Lunch,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Wednesday,NAFLD,Dinner,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Wednesday,Obesity,Breakfast,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Wednesday,Obesity,Lunch,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Wednesday,Obesity,Dinner,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Thursday,Celiac,Breakfast,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Thursday,Celiac,Lunch,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Thursday,Celiac,Dinner,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Thursday,Diabetes,Breakfast,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Thursday,Diabetes,Lunch,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Thursday,Diabetes,Dinner,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Thursday,Diarrhea,Breakfast,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Thursday,Diarrhea,Lunch,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Thursday,Diarrhea,Dinner,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Thursday,NAFLD,Breakfast,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Thursday,NAFLD,Lunch,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Thursday,NAFLD,Dinner,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Thursday,Obesity,Breakfast,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Thursday,Obesity,Lunch,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Thursday,Obesity,Dinner,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Friday,Celiac,Breakfast,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Friday,Celiac,Lunch,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Friday,Celiac,Dinner,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Friday,Diabetes,Breakfast,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Friday,Diabetes,Lunch,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Friday,Diabetes,Dinner,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Friday,Diarrhea,Breakfast,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Friday,Diarrhea,Lunch,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Friday,Diarrhea,Dinner,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Friday,NAFLD,Breakfast,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Friday,NAFLD,Lunch,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Friday,NAFLD,Dinner,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Friday,Obesity,Breakfast,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Friday,Obesity,Lunch,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Friday,Obesity,Dinner,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Saturday,Celiac,Breakfast,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Saturday,Celiac,Lunch,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Saturday,Celiac,Dinner,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Saturday,Diabetes,Breakfast,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Saturday,Diabetes,Lunch,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Saturday,Diabetes,Dinner,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Saturday,Diarrhea,Breakfast,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Saturday,Diarrhea,Lunch,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Saturday,Diarrhea,Dinner,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Saturday,NAFLD,Breakfast,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Saturday,NAFLD,Lunch,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Saturday,NAFLD,Dinner,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Saturday,Obesity,Breakfast,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Saturday,Obesity,Lunch,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Saturday,Obesity,Dinner,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Sunday,Celiac,Breakfast,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Sunday,Celiac,Lunch,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Sunday,Celiac,Dinner,Gluten-free oatmeal with fruits,Quinoa salad with grilled chicken,Grilled fish with steamed vegetables
+Sunday,Diabetes,Breakfast,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Sunday,Diabetes,Lunch,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Sunday,Diabetes,Dinner,Oatmeal with cinnamon and berries,Grilled chicken with mixed greens,Salmon with quinoa and broccoli
+Sunday,Diarrhea,Breakfast,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Sunday,Diarrhea,Lunch,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Sunday,Diarrhea,Dinner,Banana with rice porridge,Boiled chicken with white rice,Steamed carrots and boiled potatoes
+Sunday,NAFLD,Breakfast,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Sunday,NAFLD,Lunch,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Sunday,NAFLD,Dinner,Greek yogurt with berries,Grilled chicken with leafy greens,Baked cod with roasted vegetables
+Sunday,Obesity,Breakfast,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Sunday,Obesity,Lunch,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa
+Sunday,Obesity,Dinner,Whole grain toast with avocado,Grilled chicken salad,Steamed salmon with quinoa

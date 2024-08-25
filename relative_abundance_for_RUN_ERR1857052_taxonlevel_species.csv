@@ -1,0 +1,114 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+39491,19.1033,[Eubacterium] rectale
+1680,8.10098,Bifidobacterium adolescentis
+28117,5.67932,Alistipes putredinis
+853,4.04473,Faecalibacterium prausnitzii
+39488,3.53176,[Eubacterium] hallii
+1354,3.23845,Enterococcus hirae
+457412,2.91566,Ruminococcus sp. 5_1_39BFAA
+2173,2.66488,Methanobrevibacter smithii
+165179,2.34948,Prevotella copri
+100886,2.3358,Catenibacterium mitsuokai
+40518,2.3165,Ruminococcus bromii
+216816,2.11953,Bifidobacterium longum
+218538,1.87019,Dialister invisus
+-1,1.73707,Unknown
+821,1.64826,Bacteroides vulgatus
+74426,1.6279,Collinsella aerofaciens
+410072,1.30997,Coprococcus comes
+28118,1.30316,Odoribacter splanchnicus
+52226,1.21299,Mitsuokella multacida
+487174,1.12853,Barnesiella intestinihominis
+40520,1.10265,Blautia obeum
+33039,0.99184,[Ruminococcus] torques
+88431,0.73467,Dorea longicatena
+46503,0.73347,Parabacteroides merdae
+39490,0.63873,Eubacterium ramulus
+328814,0.61603,Alistipes shahii
+1304,0.55321,Streptococcus salivarius
+204516,0.54781,Bacteroides massiliensis
+301301,0.53999,Roseburia hominis
+1161942,0.46672,Ruminococcus champanellensis
+39486,0.44063,Dorea formicigenerans
+116085,0.43672,Coprococcus catus
+371601,0.41347,Bacteroides xylanisolvens
+658081,0.34232,Lachnospiraceae bacterium 1_1_57FAA
+338188,0.3214,Bacteroides finegoldii
+47678,0.25871,Bacteroides caccae
+28116,0.25015,Bacteroides ovatus
+1328,0.22553,Streptococcus anginosus
+40519,0.21212,Ruminococcus callidus
+310298,0.21168,Bacteroides coprocola
+665950,0.19307,Lachnospiraceae bacterium 3_1_46FAA
+39496,0.18635,Eubacterium ventriosum
+674529,0.1701,Bacteroides faecis
+626929,0.16364,Bacteroides clarus
+901,0.16303,Desulfovibrio piger
+357276,0.15511,Bacteroides dorei
+137591,0.15044,Weissella cibaria
+823,0.14549,Parabacteroides distasonis
+1318,0.13257,Streptococcus parasanguinis
+658082,0.13222,Lachnospiraceae bacterium 2_1_58FAA
+820,0.12544,Bacteroides uniformis
+1288121,0.12428,Alistipes senegalensis
+1118061,0.11981,Alistipes obesi
+1352,0.11762,Enterococcus faecium
+328813,0.11253,Alistipes onderdonkii
+39485,0.10998,[Eubacterium] eligens
+360807,0.08925,Roseburia inulinivorans
+47715,0.08632,Lactobacillus rhamnosus
+487173,0.07772,Dialister succinatiphilus
+28111,0.07191,Bacteroides eggerthii
+214856,0.06971,Alistipes finegoldii
+544644,0.067,Butyricimonas synergistica
+328812,0.06261,Parabacteroides goldsteinii
+446660,0.057,Adlercreutzia equolifaciens
+39483,0.05622,Faecalitalea cylindroides
+1502,0.05552,Clostridium perfringens
+39492,0.04903,[Eubacterium] siraeum
+68892,0.04758,Streptococcus infantis
+454154,0.04526,Paraprevotella clara
+1343,0.04237,Streptococcus vestibularis
+113107,0.04072,Streptococcus australis
+649756,0.04021,Anaerostipes hadrus
+1358,0.03383,Lactococcus lactis
+562,0.03018,Escherichia coli
+905,0.02849,Acidaminococcus fermentans
+1590,0.02465,Lactobacillus plantarum
+246787,0.02155,Bacteroides cellulosilyticus
+658089,0.02116,Lachnospiraceae bacterium 5_1_63FAA
+1070699,0.02025,Clostridiaceae bacterium JC118
+1245,0.01989,Leuconostoc mesenteroides
+487175,0.01964,Parasutterella excrementihominis
+28038,0.01905,Lactobacillus curvatus
+29466,0.01734,Veillonella parvula
+658087,0.01582,Lachnospiraceae bacterium 7_1_58FAA
+1660,0.01531,Actinomyces odontolyticus
+729,0.01498,Haemophilus parainfluenzae
+1244,0.01305,Leuconostoc gelidum
+43675,0.01212,Rothia mucilaginosa
+1099853,0.01129,Coprobacter fastidiosus
+39778,0.0108,Veillonella dispar
+-1,0.00968,Unknown
+1599,0.00866,Lactobacillus sakei
+469610,0.00854,Burkholderiales bacterium 1_1_47
+454155,0.00759,Paraprevotella xylaniphila
+35833,0.00758,Bilophila wadsworthia
+1302,0.00656,Streptococcus gordonii
+1252,0.00605,Leuconostoc carnosum
+61171,0.0051,Holdemania filiformis
+46506,0.00478,Bacteroides stercoris
+291645,0.0046,Bacteroides nordii
+39777,0.004,Veillonella atypica
+1351,0.00297,Enterococcus faecalis
+1308,0.0026,Streptococcus thermophilus
+187327,0.00203,Acidaminococcus intestini
+818,0.0018,Bacteroides thetaiotaomicron
+847,0.00179,Oxalobacter formigenes
+115778,0.00178,Leuconostoc gelidum subsp. gasicomitatum
+1077464,0.00161,Streptococcus tigurinus
+1656,0.0014,Actinomyces viscosus
+1535,0.00076,[Clostridium] leptum
+208479,0.00072,[Clostridium] bolteae
+84135,0.00037,Gemella sanguinis
+-1,16.0232,Unknown

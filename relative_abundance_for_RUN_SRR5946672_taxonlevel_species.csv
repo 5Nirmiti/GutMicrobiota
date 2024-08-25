@@ -1,0 +1,47 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+821,32.758,Bacteroides vulgatus
+818,12.2578,Bacteroides thetaiotaomicron
+246787,8.72179,Bacteroides cellulosilyticus
+28117,7.8684,Alistipes putredinis
+371601,4.93533,Bacteroides xylanisolvens
+214856,4.88891,Alistipes finegoldii
+2053618,4.35636,Unknown
+1869337,3.96123,Unknown
+817,3.62498,Bacteroides fragilis
+218538,3.21363,Dialister invisus
+853,1.86344,Faecalibacterium prausnitzii
+820,1.75899,Bacteroides uniformis
+328814,1.21391,Alistipes shahii
+1929485,1.04533,Unknown
+292800,0.97485,Flavonifractor plautii
+28118,0.82166,Odoribacter splanchnicus
+1945593,0.63947,Unknown
+487175,0.62962,Parasutterella excrementihominis
+29361,0.5267,Tyzzerella nexilis
+1535,0.51762,[Clostridium] leptum
+823,0.51196,Parabacteroides distasonis
+291645,0.44662,Bacteroides nordii
+469610,0.43021,Burkholderiales bacterium 1_1_47
+2040332,0.30358,Unknown
+33038,0.26768,[Ruminococcus] gnavus
+1884818,0.25093,Unknown
+658087,0.22589,Lachnospiraceae bacterium 7_1_58FAA
+31971,0.17557,[Eubacterium] dolichum
+1531,0.14427,[Clostridium] clostridioforme
+2049040,0.12999,Unknown
+208479,0.11744,[Clostridium] bolteae
+33039,0.09745,[Ruminococcus] torques
+562,0.09352,Escherichia coli
+333367,0.04914,[Clostridium] asparagiforme
+35833,0.03784,Bilophila wadsworthia
+2049029,0.03014,Unknown
+154046,0.02718,Hungatella hathewayi
+665950,0.02601,Lachnospiraceae bacterium 3_1_46FAA
+742723,0.01504,Lachnospiraceae bacterium 2_1_46FAA
+1070699,0.01235,Clostridiaceae bacterium JC118
+169435,0.00876,Anaerotruncus colihominis
+40520,0.00677,Blautia obeum
+357276,0.00595,Bacteroides dorei
+1288121,0.00422,Alistipes senegalensis
+61171,0.00348,Holdemania filiformis
+-1,-1e-05,Unknown

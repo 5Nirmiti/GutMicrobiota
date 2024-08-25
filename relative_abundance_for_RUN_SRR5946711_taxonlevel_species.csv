@@ -1,0 +1,64 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+853,28.1926,Faecalibacterium prausnitzii
+166486,16.6762,Roseburia intestinalis
+820,7.63276,Bacteroides uniformis
+39491,4.97107,[Eubacterium] rectale
+2053618,3.88069,Unknown
+338188,3.77749,Bacteroides finegoldii
+28117,2.81224,Alistipes putredinis
+626940,2.3982,Phascolarctobacterium succinatutens
+357276,2.38022,Bacteroides dorei
+204516,2.30795,Bacteroides massiliensis
+487174,2.26611,Barnesiella intestinihominis
+40545,2.22062,Sutterella wadsworthensis
+246787,2.16331,Bacteroides cellulosilyticus
+88431,2.12365,Dorea longicatena
+39485,1.91173,[Eubacterium] eligens
+46503,1.76547,Parabacteroides merdae
+46228,1.38786,Ruminococcus lactaris
+821,1.27588,Bacteroides vulgatus
+360807,1.24604,Roseburia inulinivorans
+301301,0.99724,Roseburia hominis
+47678,0.85362,Bacteroides caccae
+40518,0.71928,Ruminococcus bromii
+28118,0.65961,Odoribacter splanchnicus
+371601,0.55324,Bacteroides xylanisolvens
+328813,0.53068,Alistipes onderdonkii
+328814,0.44934,Alistipes shahii
+46506,0.43523,Bacteroides stercoris
+1926307,0.36898,Unknown
+33039,0.3532,[Ruminococcus] torques
+214856,0.26334,Alistipes finegoldii
+12908,0.25953,Unknown
+39492,0.25939,[Eubacterium] siraeum
+1929485,0.21983,Unknown
+1118061,0.20023,Alistipes obesi
+729,0.16457,Haemophilus parainfluenzae
+665951,0.13885,Lachnospiraceae bacterium 8_1_57FAA
+40519,0.1247,Ruminococcus callidus
+33043,0.10851,Coprococcus eutactus
+446660,0.10725,Adlercreutzia equolifaciens
+216816,0.09762,Bifidobacterium longum
+1945593,0.09119,Unknown
+40520,0.09063,Blautia obeum
+1308,0.0868,Streptococcus thermophilus
+39488,0.06553,[Eubacterium] hallii
+1680,0.06449,Bifidobacterium adolescentis
+261299,0.05947,Intestinibacter bartlettii
+658089,0.04728,Lachnospiraceae bacterium 5_1_63FAA
+487175,0.04566,Parasutterella excrementihominis
+116085,0.03994,Coprococcus catus
+410072,0.03604,Coprococcus comes
+29466,0.02093,Veillonella parvula
+649756,0.02027,Anaerostipes hadrus
+1535,0.01816,[Clostridium] leptum
+658081,0.01641,Lachnospiraceae bacterium 1_1_57FAA
+39778,0.01387,Veillonella dispar
+1288121,0.00832,Alistipes senegalensis
+35833,0.00602,Bilophila wadsworthia
+39496,0.00444,Eubacterium ventriosum
+1965294,0.00302,Unknown
+74426,0.00298,Collinsella aerofaciens
+658087,0.00253,Lachnospiraceae bacterium 7_1_58FAA
+2049029,0.00178,Unknown
+-1,-2e-05,Unknown

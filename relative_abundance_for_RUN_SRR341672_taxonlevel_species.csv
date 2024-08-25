@@ -1,0 +1,48 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+562,61.5139,Escherichia coli
+208479,11.9932,[Clostridium] bolteae
+29361,6.74143,Tyzzerella nexilis
+33038,5.95819,[Ruminococcus] gnavus
+1512,5.7091,[Clostridium] symbiosum
+658082,4.04237,Lachnospiraceae bacterium 2_1_58FAA
+154046,1.94855,Hungatella hathewayi
+33039,0.57262,[Ruminococcus] torques
+1352,0.46934,Enterococcus faecium
+821,0.14473,Bacteroides vulgatus
+1496,0.10291,Clostridioides difficile
+1547,0.06714,Erysipelatoclostridium ramosum
+457422,0.05328,Erysipelotrichaceae bacterium 2_2_44A
+818,0.04518,Bacteroides thetaiotaomicron
+817,0.04461,Bacteroides fragilis
+823,0.02091,Parabacteroides distasonis
+1318,0.01903,Streptococcus parasanguinis
+261299,0.01779,Intestinibacter bartlettii
+230143,0.01566,Scardovia wiggsiae
+371601,0.01249,Bacteroides xylanisolvens
+820,0.01098,Bacteroides uniformis
+47678,0.01084,Bacteroides caccae
+28116,0.01067,Bacteroides ovatus
+68892,0.00975,Streptococcus infantis
+237576,0.00942,Oribacterium sinus
+33964,0.00853,Leuconostoc citreum
+573,0.0084,Klebsiella pneumoniae
+46124,0.00796,Granulicatella adiacens
+43675,0.00733,Rothia mucilaginosa
+28037,0.00684,Streptococcus mitis
+165179,0.00655,Prevotella copri
+1245,0.006,Leuconostoc mesenteroides
+29466,0.00506,Veillonella parvula
+341694,0.00502,Peptostreptococcus stomatis
+550,0.00303,Enterobacter cloacae
+228,0.00251,Pseudoalteromonas haloplanktis
+853,0.00218,Faecalibacterium prausnitzii
+84112,0.00171,Eggerthella lenta
+310297,0.00167,Bacteroides plebeius
+46125,0.00131,Abiotrophia defectiva
+1584,0.00131,Lactobacillus delbrueckii
+102148,0.00114,Solobacterium moorei
+239935,0.00108,Akkermansia muciniphila
+46506,0.00099,Bacteroides stercoris
+1522,0.00068,[Clostridium] innocuum
+43660,0.00017,Pseudoalteromonas undina
+-1,0.3765,Unknown

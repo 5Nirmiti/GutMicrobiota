@@ -1,0 +1,90 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+165179,39.0444,Prevotella copri
+46506,10.987,Bacteroides stercoris
+204516,4.43073,Bacteroides massiliensis
+47678,4.42171,Bacteroides caccae
+850,4.33138,Fusobacterium mortiferum
+39485,4.09331,[Eubacterium] eligens
+853,3.40787,Faecalibacterium prausnitzii
+821,3.13549,Bacteroides vulgatus
+360807,2.78936,Roseburia inulinivorans
+357276,2.0184,Bacteroides dorei
+823,1.96353,Parabacteroides distasonis
+39491,1.5836,[Eubacterium] rectale
+28117,1.33399,Alistipes putredinis
+39492,1.27611,[Eubacterium] siraeum
+40545,1.27156,Sutterella wadsworthensis
+239935,1.18244,Akkermansia muciniphila
+469592,1.10589,Bacteroides sp. 3_1_19
+371601,1.07213,Bacteroides xylanisolvens
+818,0.85947,Bacteroides thetaiotaomicron
+658081,0.69416,Lachnospiraceae bacterium 1_1_57FAA
+454154,0.65421,Paraprevotella clara
+291644,0.63666,Bacteroides salyersiae
+46503,0.603,Parabacteroides merdae
+457412,0.49655,Ruminococcus sp. 5_1_39BFAA
+33039,0.30695,[Ruminococcus] torques
+820,0.29156,Bacteroides uniformis
+562,0.2884,Escherichia coli
+328814,0.27559,Alistipes shahii
+28116,0.26013,Bacteroides ovatus
+301301,0.17482,Roseburia hominis
+29466,0.1696,Veillonella parvula
+208479,0.12869,[Clostridium] bolteae
+1118061,0.11135,Alistipes obesi
+246787,0.09297,Bacteroides cellulosilyticus
+665950,0.08507,Lachnospiraceae bacterium 3_1_46FAA
+817,0.08373,Bacteroides fragilis
+166486,0.08116,Roseburia intestinalis
+1624,0.07952,Lactobacillus salivarius
+40520,0.06813,Blautia obeum
+1304,0.06148,Streptococcus salivarius
+626932,0.05264,Alistipes indistinctus
+40519,0.04892,Ruminococcus callidus
+457421,0.04823,Clostridiales bacterium 1_7_47FAA
+33038,0.04663,[Ruminococcus] gnavus
+674529,0.04648,Bacteroides faecis
+658089,0.04428,Lachnospiraceae bacterium 5_1_63FAA
+39488,0.03873,[Eubacterium] hallii
+658087,0.03649,Lachnospiraceae bacterium 7_1_58FAA
+88431,0.03632,Dorea longicatena
+39486,0.0357,Dorea formicigenerans
+329854,0.03553,Bacteroides intestinalis
+28111,0.03503,Bacteroides eggerthii
+116085,0.03386,Coprococcus catus
+39496,0.03382,Eubacterium ventriosum
+665951,0.03314,Lachnospiraceae bacterium 8_1_57FAA
+261299,0.03301,Intestinibacter bartlettii
+410072,0.03233,Coprococcus comes
+1318,0.03177,Streptococcus parasanguinis
+39778,0.02908,Veillonella dispar
+28125,0.0223,Prevotella bivia
+729,0.02121,Haemophilus parainfluenzae
+333367,0.02087,[Clostridium] asparagiforme
+39777,0.01587,Veillonella atypica
+856,0.01561,Fusobacterium varium
+61171,0.0149,Holdemania filiformis
+358743,0.01403,[Clostridium] citroniae
+1288121,0.01251,Alistipes senegalensis
+626929,0.01144,Bacteroides clarus
+649756,0.01052,Anaerostipes hadrus
+74426,0.00981,Collinsella aerofaciens
+564,0.00942,Escherichia fergusonii
+338188,0.00828,Bacteroides finegoldii
+544644,0.00734,Butyricimonas synergistica
+550,0.00692,Enterobacter cloacae
+573,0.00672,Klebsiella pneumoniae
+291645,0.00532,Bacteroides nordii
+154046,0.00525,Hungatella hathewayi
+658082,0.00422,Lachnospiraceae bacterium 2_1_58FAA
+1070699,0.00331,Clostridiaceae bacterium JC118
+39490,0.00325,Eubacterium ramulus
+487175,0.00323,Parasutterella excrementihominis
+1512,0.00228,[Clostridium] symbiosum
+328813,0.00203,Alistipes onderdonkii
+626931,0.00191,Bacteroides oleiciplenus
+446660,0.00159,Adlercreutzia equolifaciens
+454155,0.00147,Paraprevotella xylaniphila
+847,0.00115,Oxalobacter formigenes
+1582,0.00075,Lactobacillus casei
+-1,3.07232,Unknown

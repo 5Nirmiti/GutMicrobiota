@@ -1,0 +1,68 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+46506,21.6001,Bacteroides stercoris
+820,16.4495,Bacteroides uniformis
+28117,8.12883,Alistipes putredinis
+204516,5.66793,Bacteroides massiliensis
+823,5.11654,Parabacteroides distasonis
+674529,3.5284,Bacteroides faecis
+39491,3.22788,[Eubacterium] rectale
+853,3.10081,Faecalibacterium prausnitzii
+821,3.06632,Bacteroides vulgatus
+40518,2.4041,Ruminococcus bromii
+47678,2.05459,Bacteroides caccae
+1111120,1.94924,Acidaminococcus sp. BV3L6
+469588,1.75978,Bacteroides sp. 2_1_22
+1680,1.54524,Bifidobacterium adolescentis
+457412,1.41008,Ruminococcus sp. 5_1_39BFAA
+28116,0.98245,Bacteroides ovatus
+39488,0.75344,[Eubacterium] hallii
+410072,0.68054,Coprococcus comes
+46503,0.59646,Parabacteroides merdae
+88431,0.58226,Dorea longicatena
+360807,0.54424,Roseburia inulinivorans
+33039,0.53844,[Ruminococcus] torques
+28111,0.53442,Bacteroides eggerthii
+28118,0.51563,Odoribacter splanchnicus
+328814,0.40158,Alistipes shahii
+301301,0.40029,Roseburia hominis
+371601,0.36686,Bacteroides xylanisolvens
+40520,0.32379,Blautia obeum
+74426,0.30416,Collinsella aerofaciens
+357276,0.23981,Bacteroides dorei
+1118061,0.22097,Alistipes obesi
+46228,0.16598,Ruminococcus lactaris
+39486,0.16521,Dorea formicigenerans
+116085,0.12511,Coprococcus catus
+658081,0.07433,Lachnospiraceae bacterium 1_1_57FAA
+39490,0.06989,Eubacterium ramulus
+1318,0.06173,Streptococcus parasanguinis
+39496,0.04042,Eubacterium ventriosum
+1304,0.03765,Streptococcus salivarius
+562,0.02441,Escherichia coli
+28026,0.0242,Bifidobacterium pseudocatenulatum
+165179,0.01919,Prevotella copri
+261299,0.01813,Intestinibacter bartlettii
+1305,0.01282,Streptococcus sanguinis
+310298,0.01012,Bacteroides coprocola
+1531,0.00955,[Clostridium] clostridioforme
+818,0.00904,Bacteroides thetaiotaomicron
+1535,0.00855,[Clostridium] leptum
+333367,0.00811,[Clostridium] asparagiforme
+658659,0.00776,Erysipelotrichaceae bacterium 3_1_53
+208479,0.00725,[Clostridium] bolteae
+626932,0.00646,Alistipes indistinctus
+658087,0.00587,Lachnospiraceae bacterium 7_1_58FAA
+40519,0.00526,Ruminococcus callidus
+29466,0.00505,Veillonella parvula
+358743,0.0048,[Clostridium] citroniae
+658089,0.00443,Lachnospiraceae bacterium 5_1_63FAA
+84135,0.00438,Gemella sanguinis
+33038,0.00278,[Ruminococcus] gnavus
+68892,0.00241,Streptococcus infantis
+876,0.00215,Desulfovibrio desulfuricans
+84112,0.00195,Eggerthella lenta
+626929,0.0018,Bacteroides clarus
+292800,0.00086,Flavonifractor plautii
+1288121,0.00082,Alistipes senegalensis
+55565,0.00054,Actinomyces graevenitzii
+-1,10.0563,Unknown

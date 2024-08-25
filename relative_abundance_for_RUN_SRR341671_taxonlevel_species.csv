@@ -1,0 +1,74 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+853,36.9129,Faecalibacterium prausnitzii
+46506,19.3673,Bacteroides stercoris
+821,5.54828,Bacteroides vulgatus
+39491,4.1195,[Eubacterium] rectale
+46503,3.54231,Parabacteroides merdae
+33039,3.53318,[Ruminococcus] torques
+28116,2.03932,Bacteroides ovatus
+357276,1.82233,Bacteroides dorei
+562,1.79033,Escherichia coli
+39488,1.42603,[Eubacterium] hallii
+818,1.35926,Bacteroides thetaiotaomicron
+33038,1.12793,[Ruminococcus] gnavus
+214856,0.88729,Alistipes finegoldii
+371601,0.80558,Bacteroides xylanisolvens
+410072,0.6878,Coprococcus comes
+823,0.67566,Parabacteroides distasonis
+40520,0.66486,Blautia obeum
+649724,0.6251,Clostridium sp. ATCC BAA-442
+28118,0.56396,Odoribacter splanchnicus
+665956,0.55686,Subdoligranulum sp. 4_3_54A2FAA
+658081,0.47669,Lachnospiraceae bacterium 1_1_57FAA
+88431,0.44051,Dorea longicatena
+61171,0.41128,Holdemania filiformis
+208479,0.39405,[Clostridium] bolteae
+469610,0.39334,Burkholderiales bacterium 1_1_47
+29361,0.38122,Tyzzerella nexilis
+328812,0.37349,Parabacteroides goldsteinii
+338188,0.36013,Bacteroides finegoldii
+817,0.24445,Bacteroides fragilis
+1304,0.24072,Streptococcus salivarius
+1512,0.21416,[Clostridium] symbiosum
+39486,0.2,Dorea formicigenerans
+487175,0.17359,Parasutterella excrementihominis
+328814,0.1632,Alistipes shahii
+658089,0.1572,Lachnospiraceae bacterium 5_1_63FAA
+457402,0.14592,Eubacterium sp. 3_1_31
+638849,0.12033,Pyramidobacter piscolens
+1531,0.11339,[Clostridium] clostridioforme
+292800,0.09897,Flavonifractor plautii
+1070699,0.09078,Clostridiaceae bacterium JC118
+154046,0.08982,Hungatella hathewayi
+820,0.08556,Bacteroides uniformis
+246787,0.08226,Bacteroides cellulosilyticus
+457421,0.08109,Clostridiales bacterium 1_7_47FAA
+876,0.07352,Desulfovibrio desulfuricans
+169435,0.07108,Anaerotruncus colihominis
+847,0.06077,Oxalobacter formigenes
+1547,0.04795,Erysipelatoclostridium ramosum
+573,0.04777,Klebsiella pneumoniae
+626929,0.0419,Bacteroides clarus
+358743,0.03762,[Clostridium] citroniae
+674529,0.03232,Bacteroides faecis
+291645,0.02957,Bacteroides nordii
+113107,0.02329,Streptococcus australis
+35833,0.0184,Bilophila wadsworthia
+387661,0.01838,Parabacteroides johnsonii
+239935,0.01605,Akkermansia muciniphila
+552396,0.01169,Erysipelotrichaceae bacterium 5_2_54FAA
+43675,0.01072,Rothia mucilaginosa
+658087,0.01003,Lachnospiraceae bacterium 7_1_58FAA
+28117,0.00956,Alistipes putredinis
+1118061,0.00878,Alistipes obesi
+165179,0.00708,Prevotella copri
+469614,0.00612,Erysipelotrichaceae bacterium 6_1_45
+626932,0.0057,Alistipes indistinctus
+544644,0.00494,Butyricimonas synergistica
+1264,0.00402,Ruminococcus albus
+649756,0.00186,Anaerostipes hadrus
+46124,0.00166,Granulicatella adiacens
+658082,0.00135,Lachnospiraceae bacterium 2_1_58FAA
+329854,0.001,Bacteroides intestinalis
+33035,0.001,Blautia producta
+-1,5.80801,Unknown

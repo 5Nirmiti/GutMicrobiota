@@ -1,0 +1,60 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+165179,40.0377,Prevotella copri
+218538,10.562,Dialister invisus
+853,5.7369,Faecalibacterium prausnitzii
+357276,3.98223,Bacteroides dorei
+47678,3.06496,Bacteroides caccae
+360807,2.66822,Roseburia inulinivorans
+45851,2.15883,Butyrivibrio crossotus
+818,1.99731,Bacteroides thetaiotaomicron
+328813,1.96579,Alistipes onderdonkii
+1681,1.92488,Bifidobacterium bifidum
+39491,1.74985,[Eubacterium] rectale
+410072,1.61163,Coprococcus comes
+39488,1.53557,[Eubacterium] hallii
+457412,1.51238,Ruminococcus sp. 5_1_39BFAA
+74426,1.402,Collinsella aerofaciens
+39485,1.12459,[Eubacterium] eligens
+88431,1.09102,Dorea longicatena
+33039,0.92902,[Ruminococcus] torques
+40520,0.86957,Blautia obeum
+39486,0.84933,Dorea formicigenerans
+214856,0.5836,Alistipes finegoldii
+28118,0.58353,Odoribacter splanchnicus
+658081,0.58053,Lachnospiraceae bacterium 1_1_57FAA
+1111120,0.53113,Acidaminococcus sp. BV3L6
+28116,0.51031,Bacteroides ovatus
+1118061,0.39765,Alistipes obesi
+626932,0.37964,Alistipes indistinctus
+39496,0.34147,Eubacterium ventriosum
+817,0.32322,Bacteroides fragilis
+820,0.22088,Bacteroides uniformis
+301301,0.21074,Roseburia hominis
+1680,0.20017,Bifidobacterium adolescentis
+40519,0.18945,Ruminococcus callidus
+116085,0.18855,Coprococcus catus
+562,0.16125,Escherichia coli
+821,0.14873,Bacteroides vulgatus
+39490,0.14566,Eubacterium ramulus
+216816,0.13367,Bifidobacterium longum
+166486,0.11946,Roseburia intestinalis
+35833,0.07452,Bilophila wadsworthia
+658089,0.05128,Lachnospiraceae bacterium 5_1_63FAA
+292800,0.04206,Flavonifractor plautii
+665950,0.03761,Lachnospiraceae bacterium 3_1_46FAA
+446660,0.03627,Adlercreutzia equolifaciens
+1502,0.02774,Clostridium perfringens
+658087,0.02513,Lachnospiraceae bacterium 7_1_58FAA
+649756,0.01529,Anaerostipes hadrus
+261299,0.01511,Intestinibacter bartlettii
+169435,0.01223,Anaerotruncus colihominis
+39492,0.01199,[Eubacterium] siraeum
+310298,0.01064,Bacteroides coprocola
+658655,0.00955,Lachnospiraceae bacterium 1_4_56FAA
+61171,0.00666,Holdemania filiformis
+46506,0.0047,Bacteroides stercoris
+106588,0.0043,Pseudoflavonifractor capillosus
+1535,0.00198,[Clostridium] leptum
+1304,0.00107,Streptococcus salivarius
+487175,0.00043,Parasutterella excrementihominis
+-1,6.88801,Unknown

@@ -1,0 +1,41 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+46506,17.1141,Bacteroides stercoris
+823,10.174,Parabacteroides distasonis
+818,8.82059,Bacteroides thetaiotaomicron
+360807,8.38624,Roseburia inulinivorans
+47678,8.37068,Bacteroides caccae
+674529,8.19787,Bacteroides faecis
+371601,7.90226,Bacteroides xylanisolvens
+853,5.14759,Faecalibacterium prausnitzii
+817,4.35878,Bacteroides fragilis
+28116,4.03766,Bacteroides ovatus
+357276,3.49451,Bacteroides dorei
+39485,3.11557,[Eubacterium] eligens
+46503,2.82522,Parabacteroides merdae
+562,1.69179,Escherichia coli
+820,1.46901,Bacteroides uniformis
+457412,0.7995,Ruminococcus sp. 5_1_39BFAA
+28026,0.63984,Bifidobacterium pseudocatenulatum
+861,0.48616,Fusobacterium ulcerans
+1304,0.42382,Streptococcus salivarius
+742723,0.40315,Lachnospiraceae bacterium 2_1_46FAA
+573,0.1654,Klebsiella pneumoniae
+33038,0.10026,[Ruminococcus] gnavus
+1547,0.09783,Erysipelatoclostridium ramosum
+261299,0.09255,Intestinibacter bartlettii
+658082,0.09056,Lachnospiraceae bacterium 2_1_58FAA
+166486,0.06694,Roseburia intestinalis
+658657,0.06562,Erysipelotrichaceae bacterium 21_3
+501571,0.05769,Butyricicoccus pullicaecorum
+40520,0.03937,Blautia obeum
+291645,0.03874,Bacteroides nordii
+46228,0.0206,Ruminococcus lactaris
+626929,0.02006,Bacteroides clarus
+1351,0.01419,Enterococcus faecalis
+33039,0.0117,[Ruminococcus] torques
+1496,0.01156,Clostridioides difficile
+113107,0.01147,Streptococcus australis
+33945,0.00778,Enterococcus avium
+29466,0.00653,Veillonella parvula
+457422,0.00053,Erysipelotrichaceae bacterium 2_2_44A
+-1,1.22228,Unknown

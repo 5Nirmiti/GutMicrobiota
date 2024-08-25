@@ -1,0 +1,103 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+46506,16.446,Bacteroides stercoris
+28117,9.0563,Alistipes putredinis
+28111,8.65282,Bacteroides eggerthii
+28116,6.56692,Bacteroides ovatus
+33039,3.31397,[Ruminococcus] torques
+28118,2.61861,Odoribacter splanchnicus
+1343,2.38361,Streptococcus vestibularis
+1328,2.34702,Streptococcus anginosus
+291644,2.2461,Bacteroides salyersiae
+823,2.20808,Parabacteroides distasonis
+46503,1.67054,Parabacteroides merdae
+658086,1.66985,Lachnospiraceae bacterium 3_1_57FAA_CT1
+47678,1.64967,Bacteroides caccae
+33038,1.32077,[Ruminococcus] gnavus
+1304,1.28941,Streptococcus salivarius
+674529,1.22779,Bacteroides faecis
+328814,1.2068,Alistipes shahii
+357276,1.05583,Bacteroides dorei
+154046,0.92256,Hungatella hathewayi
+39491,0.91928,[Eubacterium] rectale
+310297,0.89854,Bacteroides plebeius
+208479,0.85697,[Clostridium] bolteae
+820,0.84941,Bacteroides uniformis
+204516,0.72893,Bacteroides massiliensis
+491921,0.70855,Megamonas rupellensis
+821,0.59591,Bacteroides vulgatus
+40519,0.57096,Ruminococcus callidus
+165179,0.49954,Prevotella copri
+1318,0.49233,Streptococcus parasanguinis
+818,0.43283,Bacteroides thetaiotaomicron
+658655,0.40165,Lachnospiraceae bacterium 1_4_56FAA
+40518,0.3642,Ruminococcus bromii
+214856,0.33549,Alistipes finegoldii
+665950,0.335,Lachnospiraceae bacterium 3_1_46FAA
+1226323,0.32175,Oscillibacter sp. KLE 1745
+40520,0.31345,Blautia obeum
+658081,0.30501,Lachnospiraceae bacterium 1_1_57FAA
+665956,0.24944,Subdoligranulum sp. 4_3_54A2FAA
+817,0.24393,Bacteroides fragilis
+1547,0.17215,Erysipelatoclostridium ramosum
+1512,0.15824,[Clostridium] symbiosum
+626929,0.13996,Bacteroides clarus
+901,0.12925,Desulfovibrio piger
+573,0.12569,Klebsiella pneumoniae
+850,0.121,Fusobacterium mortiferum
+328812,0.11432,Parabacteroides goldsteinii
+39486,0.11288,Dorea formicigenerans
+658082,0.10696,Lachnospiraceae bacterium 2_1_58FAA
+1118061,0.09312,Alistipes obesi
+158847,0.09169,Megamonas hypermegale
+1070699,0.08474,Clostridiaceae bacterium JC118
+246787,0.08329,Bacteroides cellulosilyticus
+40545,0.08037,Sutterella wadsworthensis
+371601,0.07127,Bacteroides xylanisolvens
+333367,0.0621,[Clostridium] asparagiforme
+291645,0.05429,Bacteroides nordii
+729,0.05198,Haemophilus parainfluenzae
+562,0.04959,Escherichia coli
+1522,0.04843,[Clostridium] innocuum
+457421,0.04102,Clostridiales bacterium 1_7_47FAA
+68892,0.03623,Streptococcus infantis
+35833,0.03345,Bilophila wadsworthia
+1302,0.03212,Streptococcus gordonii
+1535,0.03007,[Clostridium] leptum
+544644,0.02928,Butyricimonas synergistica
+1309,0.02917,Streptococcus mutans
+169435,0.02632,Anaerotruncus colihominis
+292800,0.02588,Flavonifractor plautii
+329854,0.02446,Bacteroides intestinalis
+1288121,0.02334,Alistipes senegalensis
+853,0.0218,Faecalibacterium prausnitzii
+387661,0.01902,Parabacteroides johnsonii
+39490,0.01799,Eubacterium ramulus
+358743,0.01788,[Clostridium] citroniae
+187327,0.01558,Acidaminococcus intestini
+113107,0.01452,Streptococcus australis
+847,0.01257,Oxalobacter formigenes
+658087,0.01175,Lachnospiraceae bacterium 7_1_58FAA
+360807,0.01132,Roseburia inulinivorans
+45634,0.01112,Streptococcus cristatus
+43675,0.01032,Rothia mucilaginosa
+363265,0.00933,Prevotella stercorea
+1099853,0.00917,Coprobacter fastidiosus
+1077464,0.00749,Streptococcus tigurinus
+626934,0.00691,Slackia piriformis
+61171,0.00687,Holdemania filiformis
+261299,0.00678,Intestinibacter bartlettii
+74426,0.00643,Collinsella aerofaciens
+1531,0.00489,[Clostridium] clostridioforme
+457402,0.00455,Eubacterium sp. 3_1_31
+33035,0.00326,Blautia producta
+658085,0.00276,Lachnospiraceae bacterium 5_1_57FAA
+1305,0.00249,Streptococcus sanguinis
+851,0.00151,Fusobacterium nucleatum
+457422,0.00151,Erysipelotrichaceae bacterium 2_2_44A
+328813,0.00086,Alistipes onderdonkii
+658088,0.00085,Lachnospiraceae bacterium 9_1_43BFAA
+28037,0.00061,Streptococcus mitis
+856,0.00044,Fusobacterium varium
+102148,0.00032,Solobacterium moorei
+626932,0.00027,Alistipes indistinctus
+-1,19.2003,Unknown

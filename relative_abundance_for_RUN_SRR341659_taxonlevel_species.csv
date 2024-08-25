@@ -1,0 +1,84 @@
+ncbi_taxon_id,relative_abundance,scientific_name
+573,22.157,Klebsiella pneumoniae
+310297,16.1304,Bacteroides plebeius
+46506,9.55952,Bacteroides stercoris
+820,5.37381,Bacteroides uniformis
+821,5.26472,Bacteroides vulgatus
+853,5.05193,Faecalibacterium prausnitzii
+47678,4.53067,Bacteroides caccae
+850,4.09665,Fusobacterium mortiferum
+626940,3.83789,Phascolarctobacterium succinatutens
+817,2.06359,Bacteroides fragilis
+28116,1.85852,Bacteroides ovatus
+1502,1.81515,Clostridium perfringens
+33038,1.79904,[Ruminococcus] gnavus
+371601,1.2558,Bacteroides xylanisolvens
+39486,1.2501,Dorea formicigenerans
+457412,1.0946,Ruminococcus sp. 5_1_39BFAA
+39485,1.00746,[Eubacterium] eligens
+33039,0.99625,[Ruminococcus] torques
+28117,0.96703,Alistipes putredinis
+818,0.91379,Bacteroides thetaiotaomicron
+28118,0.88858,Odoribacter splanchnicus
+216816,0.87453,Bifidobacterium longum
+328814,0.61794,Alistipes shahii
+166486,0.52559,Roseburia intestinalis
+74426,0.45566,Collinsella aerofaciens
+29361,0.39126,Tyzzerella nexilis
+360807,0.35712,Roseburia inulinivorans
+410072,0.34792,Coprococcus comes
+214856,0.33105,Alistipes finegoldii
+729,0.22931,Haemophilus parainfluenzae
+469610,0.18557,Burkholderiales bacterium 1_1_47
+823,0.17938,Parabacteroides distasonis
+88431,0.17589,Dorea longicatena
+28026,0.17257,Bifidobacterium pseudocatenulatum
+39488,0.14426,[Eubacterium] hallii
+626932,0.13945,Alistipes indistinctus
+116085,0.12519,Coprococcus catus
+562,0.11421,Escherichia coli
+40520,0.10378,Blautia obeum
+292800,0.10202,Flavonifractor plautii
+658089,0.09974,Lachnospiraceae bacterium 5_1_63FAA
+39490,0.09598,Eubacterium ramulus
+487175,0.08622,Parasutterella excrementihominis
+39491,0.08202,[Eubacterium] rectale
+29466,0.06983,Veillonella parvula
+328813,0.03711,Alistipes onderdonkii
+102684,0.02871,Streptococcus infantarius
+39496,0.02744,Eubacterium ventriosum
+358743,0.02382,[Clostridium] citroniae
+328812,0.02375,Parabacteroides goldsteinii
+1547,0.0237,Erysipelatoclostridium ramosum
+1680,0.02298,Bifidobacterium adolescentis
+208479,0.017,[Clostridium] bolteae
+261299,0.01689,Intestinibacter bartlettii
+341694,0.01649,Peptostreptococcus stomatis
+29391,0.01489,Gemella morbillorum
+658087,0.01286,Lachnospiraceae bacterium 7_1_58FAA
+39778,0.01145,Veillonella dispar
+1522,0.00827,[Clostridium] innocuum
+76860,0.00755,Streptococcus constellatus
+56774,0.0072,[Eubacterium] infirmum
+46124,0.00708,Granulicatella adiacens
+1318,0.00702,Streptococcus parasanguinis
+658081,0.00699,Lachnospiraceae bacterium 1_1_57FAA
+165179,0.00618,Prevotella copri
+1304,0.00543,Streptococcus salivarius
+102148,0.00543,Solobacterium moorei
+649756,0.0052,Anaerostipes hadrus
+471189,0.00487,Gordonibacter pamelaeae
+35833,0.00468,Bilophila wadsworthia
+550,0.00459,Enterobacter cloacae
+33033,0.00443,Parvimonas micra
+84112,0.00439,Eggerthella lenta
+446660,0.0039,Adlercreutzia equolifaciens
+674529,0.00302,Bacteroides faecis
+1305,0.00266,Streptococcus sanguinis
+876,0.0022,Desulfovibrio desulfuricans
+154046,0.00196,Hungatella hathewayi
+1686,0.00118,Bifidobacterium catenulatum
+28037,0.00072,Streptococcus mitis
+239935,0.00047,Akkermansia muciniphila
+658088,0.00027,Lachnospiraceae bacterium 9_1_43BFAA
+-1,1.69822,Unknown
