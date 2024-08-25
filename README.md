@@ -1,1 +1,4 @@
 # GutMicrobiota
+
+
+This project involved analyzing microbiome data sourced from GMrepo, which included samples from patients with various diseases such as celiac disease, non-alcoholic fatty liver disease (NAFLD), obesity, diabetes, and diarrhea. The microbial data, categorized at the species (taxon) level, was processed using a Random Forest algorithm, a powerful ensemble machine learning model, to predict the specific disease associated with each sample. Once the model predicted the disease, the corresponding condition-specific meal plan was provided, integrating dietary recommendations that align with the health condition identified by the model. This approach linked the gut microbiome data to actionable health insights, demonstrating the potential for personalized nutrition based on microbial composition.
